@@ -1,6 +1,8 @@
 # 20-TIE-2936.R1
 Dataset for the article: Active Disturbance Rejection Control Design with Suppression of Sensor Noise Effects in Application to DC-DC Buck Power Converter
 
+Authors: Krzysztof Lakomy, Rafal Madonski, Bin Dai
+
 To generate a figure with experimental results:
 1. Open 'simExpComparison.m' file,
 2. select chosen experiment numbers from the attached list (List of buck converter experiments.pdf),
